@@ -139,42 +139,22 @@
   </entry>
   
   <entry>
-    <title>Hexo Note</title>
-    <link href="http://yoursite.com/2018/03/31/Hexo%20Note/"/>
-    <id>http://yoursite.com/2018/03/31/Hexo Note/</id>
+    <title>To Diana</title>
+    <link href="http://yoursite.com/2018/03/31/%E4%BD%A0%E5%B0%B1%E5%92%8C%E6%88%91%E5%90%B5%E6%9E%B6%E5%90%A7%EF%BC%81/"/>
+    <id>http://yoursite.com/2018/03/31/你就和我吵架吧！/</id>
     <published>2018-03-31T05:49:18.000Z</published>
-    <updated>2018-04-02T06:19:42.000Z</updated>
+    <updated>2018-03-31T13:16:04.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="There-are-some-useful-websites"><a href="#There-are-some-useful-websites" class="headerlink" title="There are some useful websites."></a>There are some useful websites.<a id="more"></a></h1><h1 id="Some-mistakes-has-occurred"><a href="#Some-mistakes-has-occurred" class="headerlink" title="Some mistakes has occurred."></a>Some mistakes has occurred.</h1><p><strong>1.</strong><a href="https://www.zhihu.com/question/38219432" target="_blank" rel="noopener">fatal: could not read Username for ‘GitHub · Where software is built’: No error</a><br>First hexo clean, then hexo d.(Execute hexo clean every time after deploy) </p><p><strong>2.</strong>YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key at line 72, column 2.<br>Space error, make sure you had typed a space after an attribute.  </p><p><strong>3.</strong>Add &lt;!–more–> <a href="https://blog.csdn.net/qq_32337109/article/details/78755729" target="_blank" rel="noopener">remark</a>(under part of the main body,not at first) to show just part of the article.  </p><h1 id="Tricks"><a href="#Tricks" class="headerlink" title="Tricks"></a>Tricks</h1><p><strong>1.</strong> Get a <a href="https://segmentfault.com/q/1010000000618915" target="_blank" rel="noopener">new page</a> by hexo.<br>    <code>hexo new page &quot;add your new page here&quot;</code><br>then remember add the new page’s link in the homepage, (themes–_config–menu)</p><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="I’m-so-angry"><a href="#I’m-so-angry" class="headerlink" title="I’m so angry"></a>I’m so angry</h1><a id="more"></a><h2 id="yes-sososososo-angry"><a href="#yes-sososososo-angry" class="headerlink" title="yes,sososososo angry."></a>yes,sososososo angry.</h2><h5 id="u-will-be-punished"><a href="#u-will-be-punished" class="headerlink" title="u will be punished."></a>u will be punished.</h5><p>Just like this kind.<br><img src="http://files.eduuu.com/img/2011/05/20/111846_4dd5dd96b40a8.gif" alt=""></p><hr>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;There-are-some-useful-websites&quot;&gt;&lt;a href=&quot;#There-are-some-useful-websites&quot; class=&quot;headerlink&quot; title=&quot;There are some useful websites.&quot;&gt;&lt;/a&gt;There are some useful websites.
+      &lt;h1 id=&quot;I’m-so-angry&quot;&gt;&lt;a href=&quot;#I’m-so-angry&quot; class=&quot;headerlink&quot; title=&quot;I’m so angry&quot;&gt;&lt;/a&gt;I’m so angry&lt;/h1&gt;
     
     </summary>
     
     
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown Note</title>
-    <link href="http://yoursite.com/2018/03/31/Markdown%20Note/"/>
-    <id>http://yoursite.com/2018/03/31/Markdown Note/</id>
-    <published>2018-03-31T05:49:18.000Z</published>
-    <updated>2018-04-02T02:55:08.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="There-are-some-useful-websites"><a href="#There-are-some-useful-websites" class="headerlink" title="There are some useful websites."></a>There are some useful websites.</h1><a id="more"></a><p><a href="https://www.jianshu.com/p/1e402922ee32/" target="_blank" rel="noopener">Markdown——入门指南</a><br><a href="https://blog.csdn.net/flygoa/article/details/51865125" target="_blank" rel="noopener">MarkdownPad编写博客技巧笔记</a><br><a href="http://wowubuntu.com/markdown/" target="_blank" rel="noopener">Markdown 语法说明 (简体中文版)</a><br><a href="https://blog.csdn.net/Cituses/article/details/52440734" target="_blank" rel="noopener">MarkDown语法规则</a><br><a href="https://blog.csdn.net/u011419965/article/details/50536937#16-其他" target="_blank" rel="noopener">Markdown 语法 示例 字体 字号 颜色</a></p><h1 id="Some-mistakes-has-occurred"><a href="#Some-mistakes-has-occurred" class="headerlink" title="Some mistakes has occurred."></a>Some mistakes has occurred.</h1><p>1.<a href="https://github.com/fbrctr/fabricator/issues/241" target="_blank" rel="noopener">YAMLException: can not read a block mapping entry</a><br>check space, -–,etc<br>2.Can’t recognized heading start with ‘#’—-there should have a space after #</p><hr>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;There-are-some-useful-websites&quot;&gt;&lt;a href=&quot;#There-are-some-useful-websites&quot; class=&quot;headerlink&quot; title=&quot;There are some useful websites.&quot;&gt;&lt;/a&gt;There are some useful websites.&lt;/h1&gt;
-    
-    </summary>
-    
-    
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+      <category term="angry" scheme="http://yoursite.com/tags/angry/"/>
     
   </entry>
   
@@ -199,22 +179,42 @@
   </entry>
   
   <entry>
-    <title>To Diana</title>
-    <link href="http://yoursite.com/2018/03/31/%E4%BD%A0%E5%B0%B1%E5%92%8C%E6%88%91%E5%90%B5%E6%9E%B6%E5%90%A7%EF%BC%81/"/>
-    <id>http://yoursite.com/2018/03/31/你就和我吵架吧！/</id>
+    <title>Markdown Note</title>
+    <link href="http://yoursite.com/2018/03/31/Markdown%20Note/"/>
+    <id>http://yoursite.com/2018/03/31/Markdown Note/</id>
     <published>2018-03-31T05:49:18.000Z</published>
-    <updated>2018-03-31T13:16:04.000Z</updated>
+    <updated>2018-04-02T02:55:08.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="I’m-so-angry"><a href="#I’m-so-angry" class="headerlink" title="I’m so angry"></a>I’m so angry</h1><a id="more"></a><h2 id="yes-sososososo-angry"><a href="#yes-sososososo-angry" class="headerlink" title="yes,sososososo angry."></a>yes,sososososo angry.</h2><h5 id="u-will-be-punished"><a href="#u-will-be-punished" class="headerlink" title="u will be punished."></a>u will be punished.</h5><p>Just like this kind.<br><img src="http://files.eduuu.com/img/2011/05/20/111846_4dd5dd96b40a8.gif" alt=""></p><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="There-are-some-useful-websites"><a href="#There-are-some-useful-websites" class="headerlink" title="There are some useful websites."></a>There are some useful websites.</h1><a id="more"></a><p><a href="https://www.jianshu.com/p/1e402922ee32/" target="_blank" rel="noopener">Markdown——入门指南</a><br><a href="https://blog.csdn.net/flygoa/article/details/51865125" target="_blank" rel="noopener">MarkdownPad编写博客技巧笔记</a><br><a href="http://wowubuntu.com/markdown/" target="_blank" rel="noopener">Markdown 语法说明 (简体中文版)</a><br><a href="https://blog.csdn.net/Cituses/article/details/52440734" target="_blank" rel="noopener">MarkDown语法规则</a><br><a href="https://blog.csdn.net/u011419965/article/details/50536937#16-其他" target="_blank" rel="noopener">Markdown 语法 示例 字体 字号 颜色</a></p><h1 id="Some-mistakes-has-occurred"><a href="#Some-mistakes-has-occurred" class="headerlink" title="Some mistakes has occurred."></a>Some mistakes has occurred.</h1><p>1.<a href="https://github.com/fbrctr/fabricator/issues/241" target="_blank" rel="noopener">YAMLException: can not read a block mapping entry</a><br>check space, -–,etc<br>2.Can’t recognized heading start with ‘#’—-there should have a space after #</p><hr>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;I’m-so-angry&quot;&gt;&lt;a href=&quot;#I’m-so-angry&quot; class=&quot;headerlink&quot; title=&quot;I’m so angry&quot;&gt;&lt;/a&gt;I’m so angry&lt;/h1&gt;
+      &lt;h1 id=&quot;There-are-some-useful-websites&quot;&gt;&lt;a href=&quot;#There-are-some-useful-websites&quot; class=&quot;headerlink&quot; title=&quot;There are some useful websites.&quot;&gt;&lt;/a&gt;There are some useful websites.&lt;/h1&gt;
     
     </summary>
     
     
-      <category term="angry" scheme="http://yoursite.com/tags/angry/"/>
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Note</title>
+    <link href="http://yoursite.com/2018/03/31/Hexo%20Note/"/>
+    <id>http://yoursite.com/2018/03/31/Hexo Note/</id>
+    <published>2018-03-31T05:49:18.000Z</published>
+    <updated>2018-04-02T06:19:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="There-are-some-useful-websites"><a href="#There-are-some-useful-websites" class="headerlink" title="There are some useful websites."></a>There are some useful websites.<a id="more"></a></h1><h1 id="Some-mistakes-has-occurred"><a href="#Some-mistakes-has-occurred" class="headerlink" title="Some mistakes has occurred."></a>Some mistakes has occurred.</h1><p><strong>1.</strong><a href="https://www.zhihu.com/question/38219432" target="_blank" rel="noopener">fatal: could not read Username for ‘GitHub · Where software is built’: No error</a><br>First hexo clean, then hexo d.(Execute hexo clean every time after deploy) </p><p><strong>2.</strong>YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key at line 72, column 2.<br>Space error, make sure you had typed a space after an attribute.  </p><p><strong>3.</strong>Add &lt;!–more–> <a href="https://blog.csdn.net/qq_32337109/article/details/78755729" target="_blank" rel="noopener">remark</a>(under part of the main body,not at first) to show just part of the article.  </p><h1 id="Tricks"><a href="#Tricks" class="headerlink" title="Tricks"></a>Tricks</h1><p><strong>1.</strong> Get a <a href="https://segmentfault.com/q/1010000000618915" target="_blank" rel="noopener">new page</a> by hexo.<br>    <code>hexo new page &quot;add your new page here&quot;</code><br>then remember add the new page’s link in the homepage, (themes–_config–menu)</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;There-are-some-useful-websites&quot;&gt;&lt;a href=&quot;#There-are-some-useful-websites&quot; class=&quot;headerlink&quot; title=&quot;There are some useful websites.&quot;&gt;&lt;/a&gt;There are some useful websites.
+    
+    </summary>
+    
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   
