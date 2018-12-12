@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-11T15:19:29.743Z</updated>
+  <updated>2018-03-31T13:14:44.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="http://yoursite.com/2018/12/11/hello/"/>
-    <id>http://yoursite.com/2018/12/11/hello/</id>
-    <published>2018-12-11T15:19:29.000Z</published>
-    <updated>2018-12-11T15:19:29.743Z</updated>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/12/12/hello-world/"/>
+    <id>http://yoursite.com/2018/12/12/hello-world/</id>
+    <published>2018-12-12T02:21:11.102Z</published>
+    <updated>2018-03-31T13:14:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! <a id="more"></a>This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;!
     
     </summary>
     
@@ -31,23 +35,226 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/12/11/index/"/>
-    <id>http://yoursite.com/2018/12/11/index/</id>
-    <published>2018-12-11T15:17:18.896Z</published>
-    <updated>2018-12-11T15:17:18.897Z</updated>
+    <title>symphony by Hangzhou PHILHARMONIC ORCHESTRA</title>
+    <link href="http://yoursite.com/2018/04/11/symphony/"/>
+    <id>http://yoursite.com/2018/04/11/symphony/</id>
+    <published>2018-04-11T07:31:18.000Z</published>
+    <updated>2018-04-12T08:35:18.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Symphony-by-Hangzhou-PHILHARMONIC-ORCHESTRA"><a href="#Symphony-by-Hangzhou-PHILHARMONIC-ORCHESTRA" class="headerlink" title="Symphony by Hangzhou PHILHARMONIC ORCHESTRA"></a><a href="http://www.hzdjy.com/2018/02/09/%E5%AE%8C%E5%85%A8%E4%BF%84%E7%BD%97%E6%96%AF/" target="_blank" rel="noopener">Symphony</a> by Hangzhou PHILHARMONIC ORCHESTRA</h1><p><img src="http://s4.hzdjy.com/wp-content/uploads/2018/02/640-1.jpg" alt=""><br><a id="more"></a><br>曲目 | Programme<br>理查德·瓦格纳  《漂泊的荷兰人》序曲<br>迪米特里·肖斯塔科维奇  a小调第一小提琴协奏曲，作品77号  [39′]<br>中场休息<br>谢尔盖·拉赫玛尼诺夫  交响舞曲，作品45号  [35′]<br>Programme<br>R.Wagner  Der fliegende Holländer Overture<br>D.Shostakovich  Violin Concerto No. 1 in a minor, Op. 77  [39′]<br>Intermission<br>S.Rachmaninoff  Symphonic Dances, Op. 45  [35′]<br>(ich kann nicht gut Deutsch sprachen.)  </p><p>Flying melody, sharp turn regularly appeared, not abrupt, shocking instead. floating upward like a giant baby blue Jelly Fish, rotating and rising while stirring the seawater softly. then turn to a lovely deer leaping cross shrub and arbor, stepping on the smooth lawn, finding something no one knows with full of curiosity, or something only she can see, only can be seen by the spirit of the nature. finally it becomes to a bird, or maybe not, maybe something odd enough to fly, something even i cannot see clearly. it flies sometimes high and sometimes low through the clouds, flies upon the field and grassland, across the sea and headed nowhere. nowhere is everywhere, everywhere hides behind the rainbow, the colorful clouds and shows itself all over the sky.<br><img src="http://tse2.mm.bing.net/th?id=OIP.rlrnob886ycf_Zn2ChUv3gHaIe&amp;pid=Api" alt=""></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Symphony-by-Hangzhou-PHILHARMONIC-ORCHESTRA&quot;&gt;&lt;a href=&quot;#Symphony-by-Hangzhou-PHILHARMONIC-ORCHESTRA&quot; class=&quot;headerlink&quot; title=&quot;Symphony by Hangzhou PHILHARMONIC ORCHESTRA&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.hzdjy.com/2018/02/09/%E5%AE%8C%E5%85%A8%E4%BF%84%E7%BD%97%E6%96%AF/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Symphony&lt;/a&gt; by Hangzhou PHILHARMONIC ORCHESTRA&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://s4.hzdjy.com/wp-content/uploads/2018/02/640-1.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Boniface Mwangi--The day I stood up alone</title>
+    <link href="http://yoursite.com/2018/04/03/Boniface-Mwangi/"/>
+    <id>http://yoursite.com/2018/04/03/Boniface-Mwangi/</id>
+    <published>2018-04-03T04:53:25.000Z</published>
+    <updated>2018-04-03T07:53:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Boniface_Mwangi" target="_blank" rel="noopener"><strong>Boniface Mwangi</strong></a><a id="more"></a><br><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Boniface_Mwangi.jpg" alt=""><br>Boniface Mwangi is an award-winning Kenyan photographer, artist and activist. He is a TED Fellow.<br>He made a speech in TED, the video is <a href="https://www.ted.com/talks/boniface_mwangi_boniface_mwangi_the_day_i_stood_up_alone/transcript" target="_blank" rel="noopener">here</a>.  </p><blockquote><p>00:13<br>People <strong>back</strong> <strong>home</strong> call me a heckler, a troublemaker, an irritant, a rebel, an activist, the voice of the people. But that wasn’t always me.</p></blockquote><p>‘Back home’ not mean back to home, it means in one’s hometown.<br>He depicted himself in other people’s eyes explicitly, foreshadowing the comparison of him and others, and the variation between his past and nowadays. </p><blockquote><p>00:26<br><strong>Growing</strong> <strong>up</strong>, I had a nickname. They used to call me <strong>Softy</strong>, meaning the soft, harmless boy. Like every other human being, I avoided trouble. In my childhood, they taught me silence. Don’t argue, do as you’re told. In Sunday school, they taught me don’t confront, don’t argue, even if you’re right, turn the other cheek.  </p></blockquote><p>‘Growing up’, such a simple description. Sunday school is a class organized by church and supply a place for children to learn about Christian or Jewish religion.<br>Don’t argue, avoid trouble, handling things like other human being, those are also the precepts we have been told in our culture. Does this kind of softy of most people in the society fosters rascals?   </p><blockquote><p>00:47<br>This was reinforced by the political climate of the time. (Laughter) Kenya is a country where you are guilty until proven rich. (Laughter)</p></blockquote><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/800px-Flag_of_Kenya.svg.png" alt=""><br>Kenya’s national flag  </p><blockquote><p>Kenya’s poor are five times more likely to be shot dead by the police who are meant to protect them than by criminals. This was reinforced by the political climate of the day. </p></blockquote><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Location_Kenya_AU_Africa.svg/800px-Location_Kenya_AU_Africa.svg.png" alt=""><br>Kenya’s position  </p><blockquote><p>We had a president, <a href="https://en.wikipedia.org/wiki/Daniel_arap_Moi" target="_blank" rel="noopener">Moi</a>, who was a dictator. He ruled the country with an iron fist, and anyone who dared question his authority was arrested, tortured, jailed or even killed. That meant that people were taught to be smart cowards, stay out of trouble. Being a coward was not an insult. Being a coward was a compliment. We used to be told that a coward goes home to his mother. What that meant: that if you stayed out of trouble you’re going to stay alive.</p></blockquote><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Daniel_arap_Moi_1979b.jpg/220px-Daniel_arap_Moi_1979b.jpg" alt=""><br>Daniel arap Moi, former Kenyan politician who served as the second President of Kenya from 1978 to 2002<br>‘Smart coward’, an ironic phrase, a pathetic reality. </p><blockquote><p>01:40<br>I used to question this advice, and eight years(2006? This TED video is made in 2014) ago we had an election in Kenya, and the results were violently disputed. What followed that election was terrible violence, rape, and the killing of over 1,000 people. My work was to document the violence. As a photographer, I took thousands of images, and after two months, the two politicians came together, had a cup of tea, signed a peace agreement, and the country moved on.</p></blockquote><p>Mr.Nobody’s died just because of a slight lifting of Mr.Somebody’s figure. Mr.Nobody can not die out, Mr.Somebody will never care about.</p><blockquote><p>02:12<br>I was a very disturbed man because I saw the violence firsthand. I saw the killings. I saw the displacement. I met women who had been raped, and it disturbed me, but the country never spoke about it. We pretended. We all became smart cowards. We decided to stay out of trouble and not talk about it.</p></blockquote><p>This reminds me the story of sheepfold, sheep never care about fellows, but only avoid themselves to been caught by butcher, frightened by the change of environment, pleasant by surviving longer than others, with no future.<br>The photographer’s experience reminds me one photographer and his works.  </p><p><a href="https://en.wikipedia.org/wiki/The_vulture_and_the_little_girl" target="_blank" rel="noopener">The vulture and the little girl</a>,photographed by <a href="https://en.wikipedia.org/wiki/Kevin_Carter" target="_blank" rel="noopener">Kevin Carter</a>.<br><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Kevin-Carter-Child-Vulture-Sudan.jpg/350px-Kevin-Carter-Child-Vulture-Sudan.jpg" alt=""><br>Kevin Carter won a Pulitzer Prize for this photograph during 1993 famine in Sudan, and committed suicide at the age of 33, because of condemnation of society.<br><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/KevinCarter.jpg" alt=""></p><blockquote><p>02:30<br>Ten months later, I quit my job. I said I could not stand it anymore. After quitting my job, I decided to organize my friends to speak about the violence in the country, to speak about the state of the nation, and June 1, 2009 was the day that we were meant to go to the stadium and try and get the president’s attention.</p></blockquote><p>‘be meant to do something’</p><blockquote><p>(if you are meant to do something, you should do it, especially because someone has told you to or because you are responsible for it.)  </p></blockquote><blockquote><p>It’s a national holiday, it’s broadcast across the country, and I showed up at the stadium. My friends did not show up. I found myself alone, and I didn’t know what to do. I was scared, but I knew very well that that particular day, I had to make a decision. Was I able to live as a coward, like everyone else, or was I going to make a stand?  </p><p>And when the president stood up to speak, I found myself on my feet shouting at the president, telling him to remember the post-election violence victims, to stop the corruption.  </p></blockquote><p>Complex minds, subconscious actions(found myself on my feet shouting at the president), and the day he stood up alone with impulse.  </p><blockquote><p>And suddenly, out of nowhere, the police pounced on me like hungry lions. They held my mouth and dragged me out of the stadium, where they thoroughly beat me up and locked me up in jail. I spent that night in a cold cement floor in the jail, and that got me thinking. What was making me feel this way? My friends and family thought I was crazy because of what I did, and the images that I took were disturbing my life. The images that I took were just a number to many Kenyans. Most Kenyans did not see the violence. It was a story to them.</p></blockquote><p>‘out of nowhere’, come from somewhere we don’t know. Dictatorial policy’s crime is not conscious of.   </p><blockquote><p>04:03<br>And so I decided to actually start a street exhibition to show the images of the violence across the country and get people talking about it. We traveled the country and showed the images, and this was a journey that has started me to the activist path, where I decided to become silent no more, to talk about those things. We traveled, and our general site from our street exhibit became for political graffiti about the situation in the country, talking about corruption, bad leadership. We have even done symbolic burials. We have delivered live pigs to Kenya’s parliament as a symbol of our politicians’ greed. It has been done in Uganda and other countries, and what is most powerful is that the images have been picked by the media and amplified across the country, across the continent.</p></blockquote><p>A man has stood up, alone at very first, then hundreds and thousands men stood up one after another. Spark lightens the whole continent.  </p><blockquote><p>04:51<br>Where I used to stand up alone seven years ago, now I belong to a community of many people who stand up with me. I am no longer alone when I stand up to speak about these things. I belong to a group of young people who are passionate about the country, who want to bring about change, and they’re no longer afraid, and they’re no longer smart cowards. So that was my story. That day in the stadium, I stood up as a smart coward. By that one action, I said goodbye to the 24 years living as a coward.</p></blockquote><blockquote><p>05:28<br>There are two most powerful days in your life: the day you’re born, and the day you discover why. That day standing up in that stadium shouting at the President, I discovered why I was truly born, that I would no longer be silent in the face of injustice. Do you know why you were born? Thank you. (Applause)</p></blockquote><p>The day we’re born can not choose by ourselves, but the day to discover why we’re born should be pursued forever.</p><blockquote><p>06:00<br>Tom Rielly: It’s an amazing story. I just want to ask you a couple quick questions. So PAWA254: you’ve created a studio, a place where young people can go and harness the power of digital media to do some of this action. What’s happening now with PAWA?</p></blockquote><blockquote><p>06:18<br>Boniface Mwangi: So we have this community of filmmakers, graffiti artists, musicians, and when there’s an issue in the country, we come together, we brainstorm, and take up on that issue. So our most powerful tool is art, because we live in a very busy world where people are so busy in their life, and they don’t have time to read. So we package our activism and we package our message in art. So from the music, the graffiti, the art, that’s what we do. Can I say one more thing?</p></blockquote><blockquote><p>06:47<br>TR: Yeah, of course. (Applause)</p></blockquote><blockquote><p>06:49<br>BM: In spite of being arrested, beaten up, threatened, the moment I discovered my voice, that I could actually stand up for what I really believed in, I’m no longer afraid. I used to be called softy, but I’m no longer softy, because I discovered who I really am, as in, that’s what I want to do, and there’s such beauty in doing that. There’s nothing as powerful as that, knowing that I’m meant to do this, because you don’t get scared, you just continue living your life.</p></blockquote><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Boniface_Mwangi&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Boniface Mwangi&lt;/strong&gt;&lt;/a&gt;
+    
+    </summary>
+    
+    
+      <category term="TED" scheme="http://yoursite.com/tags/TED/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pacific Rim</title>
+    <link href="http://yoursite.com/2018/04/02/title/"/>
+    <id>http://yoursite.com/2018/04/02/title/</id>
+    <published>2018-04-02T06:44:16.000Z</published>
+    <updated>2018-04-02T13:32:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<hr>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;hr&gt;
+
       
     
     </summary>
     
+    
+      <category term="movie" scheme="http://yoursite.com/tags/movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Contratiempo (2016) / The Invisible Guest</title>
+    <link href="http://yoursite.com/2018/04/01/Contratiempo-2016-The-Invisible-Guest/"/>
+    <id>http://yoursite.com/2018/04/01/Contratiempo-2016-The-Invisible-Guest/</id>
+    <published>2018-04-01T12:22:52.000Z</published>
+    <updated>2018-04-02T03:07:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Movie</strong> <a id="more"></a><br><img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=16d568fa72f40ad101e9cfb136457aba/a6efce1b9d16fdfab3ff992cbd8f8c5495ee7b64.jpg" alt=""><br>Progressive music loaded from the start, piano and string.</p><p>An innocent, frightened man, turn to a no-failure female lawer for help.  </p><p>Philis, actor in a leading role’s lawer, knows every detail of his client’s criminal, however, token money, solved the problem. Is lawer’s function to abide the law,or help the criminal to avoid the punishment of the law? Our society put a lot of sources to turn out those talented people, who we think they would like to, and should to help victims out of hell, but what have they done actually? Being the tool of power and capital?  </p><p>The most poisonous and the most warm place are both people’s heart.    </p><p>Anyone may have a horrible black side.  </p><p>Strength makes one powerful, and also can make one evil.(like boat)  </p><p>Cliff turn of the end.</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;Movie&lt;/strong&gt;
+    
+    </summary>
+    
+    
+      <category term="movie" scheme="http://yoursite.com/tags/movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Blender-Chemicals</title>
+    <link href="http://yoursite.com/2018/03/31/blender-chemicals/"/>
+    <id>http://yoursite.com/2018/03/31/blender-chemicals/</id>
+    <published>2018-03-31T14:30:13.000Z</published>
+    <updated>2018-04-08T05:46:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Prepare"><a href="#Prepare" class="headerlink" title="Prepare   "></a>Prepare   <a id="more"></a></h1><p>Install <a href="https://blog.csdn.net/spearous/article/details/17910531" target="_blank" rel="noopener">pybel</a> <a href="http://openbabel.org/docs/2.3.1/UseTheLibrary/Python_Pybel.html" target="_blank" rel="noopener">official introduction</a>and <a href="https://github.com/patrickfuller/blender-chemicals" target="_blank" rel="noopener">blender chemicals</a><br><a href="https://www.blender.org/" target="_blank" rel="noopener">Blender</a> is a amazing group that supports 3D open source modeling program.<br><a href="https://en.wikipedia.org/wiki/JSON" target="_blank" rel="noopener">JSON</a>  </p><h1 id="Follow-pioneer"><a href="#Follow-pioneer" class="headerlink" title="Follow pioneer"></a>Follow pioneer</h1><p>Follow the <a href="https://patrickfuller.github.io/molecules-from-smiles-molfiles-in-blender/" target="_blank" rel="noopener">developer</a>  </p><h2 id="Error"><a href="#Error" class="headerlink" title="Error"></a>Error</h2><p>what string is here:<br><code>import json,blender_chemicals,pybel</code><br><code>string=&#39;c1ccccc1&#39;</code><br><code>data = json.loads(string)</code><br><code>print(data[&quot;atoms&quot;][0][&quot;location&quot;][1])</code>  </p><blockquote><p>pybel’ has no attribute ‘readstring’  </p></blockquote><p>But the official web of <a href="http://openbabel.org/docs/2.3.1/UseTheLibrary/Python_Pybel.html" target="_blank" rel="noopener">Pybel</a> has said pybel.readstring is <a href="http://openbabel.org/docs/2.3.1/UseTheLibrary/Python_PybelAPI.html#pybel.readstring" target="_blank" rel="noopener">exist</a>.why?</p><h1 id="Try-conda"><a href="#Try-conda" class="headerlink" title="Try conda"></a>Try conda</h1><p>run with conda as it said. Run:<br><code>conda install -c openbabel openbabel</code><br><code>pip install blender-chemicals</code></p><p>openbabel-2.4.1-py36_2.tar.bz2  </p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Prepare&quot;&gt;&lt;a href=&quot;#Prepare&quot; class=&quot;headerlink&quot; title=&quot;Prepare   &quot;&gt;&lt;/a&gt;Prepare
+    
+    </summary>
+    
+    
+      <category term="python-lab" scheme="http://yoursite.com/tags/python-lab/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Note</title>
+    <link href="http://yoursite.com/2018/03/31/Hexo%20Note/"/>
+    <id>http://yoursite.com/2018/03/31/Hexo Note/</id>
+    <published>2018-03-31T05:49:18.000Z</published>
+    <updated>2018-04-02T06:19:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="There-are-some-useful-websites"><a href="#There-are-some-useful-websites" class="headerlink" title="There are some useful websites."></a>There are some useful websites.<a id="more"></a></h1><h1 id="Some-mistakes-has-occurred"><a href="#Some-mistakes-has-occurred" class="headerlink" title="Some mistakes has occurred."></a>Some mistakes has occurred.</h1><p><strong>1.</strong><a href="https://www.zhihu.com/question/38219432" target="_blank" rel="noopener">fatal: could not read Username for ‘GitHub · Where software is built’: No error</a><br>First hexo clean, then hexo d.(Execute hexo clean every time after deploy) </p><p><strong>2.</strong>YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key at line 72, column 2.<br>Space error, make sure you had typed a space after an attribute.  </p><p><strong>3.</strong>Add &lt;!–more–> <a href="https://blog.csdn.net/qq_32337109/article/details/78755729" target="_blank" rel="noopener">remark</a>(under part of the main body,not at first) to show just part of the article.  </p><h1 id="Tricks"><a href="#Tricks" class="headerlink" title="Tricks"></a>Tricks</h1><p><strong>1.</strong> Get a <a href="https://segmentfault.com/q/1010000000618915" target="_blank" rel="noopener">new page</a> by hexo.<br>    <code>hexo new page &quot;add your new page here&quot;</code><br>then remember add the new page’s link in the homepage, (themes–_config–menu)</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;There-are-some-useful-websites&quot;&gt;&lt;a href=&quot;#There-are-some-useful-websites&quot; class=&quot;headerlink&quot; title=&quot;There are some useful websites.&quot;&gt;&lt;/a&gt;There are some useful websites.
+    
+    </summary>
+    
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown Note</title>
+    <link href="http://yoursite.com/2018/03/31/Markdown%20Note/"/>
+    <id>http://yoursite.com/2018/03/31/Markdown Note/</id>
+    <published>2018-03-31T05:49:18.000Z</published>
+    <updated>2018-04-02T02:55:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="There-are-some-useful-websites"><a href="#There-are-some-useful-websites" class="headerlink" title="There are some useful websites."></a>There are some useful websites.</h1><a id="more"></a><p><a href="https://www.jianshu.com/p/1e402922ee32/" target="_blank" rel="noopener">Markdown——入门指南</a><br><a href="https://blog.csdn.net/flygoa/article/details/51865125" target="_blank" rel="noopener">MarkdownPad编写博客技巧笔记</a><br><a href="http://wowubuntu.com/markdown/" target="_blank" rel="noopener">Markdown 语法说明 (简体中文版)</a><br><a href="https://blog.csdn.net/Cituses/article/details/52440734" target="_blank" rel="noopener">MarkDown语法规则</a><br><a href="https://blog.csdn.net/u011419965/article/details/50536937#16-其他" target="_blank" rel="noopener">Markdown 语法 示例 字体 字号 颜色</a></p><h1 id="Some-mistakes-has-occurred"><a href="#Some-mistakes-has-occurred" class="headerlink" title="Some mistakes has occurred."></a>Some mistakes has occurred.</h1><p>1.<a href="https://github.com/fbrctr/fabricator/issues/241" target="_blank" rel="noopener">YAMLException: can not read a block mapping entry</a><br>check space, -–,etc<br>2.Can’t recognized heading start with ‘#’—-there should have a space after #</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;There-are-some-useful-websites&quot;&gt;&lt;a href=&quot;#There-are-some-useful-websites&quot; class=&quot;headerlink&quot; title=&quot;There are some useful websites.&quot;&gt;&lt;/a&gt;There are some useful websites.&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>To Diana</title>
+    <link href="http://yoursite.com/2018/03/31/%E4%BD%A0%E5%B0%B1%E5%92%8C%E6%88%91%E5%90%B5%E6%9E%B6%E5%90%A71/"/>
+    <id>http://yoursite.com/2018/03/31/你就和我吵架吧1/</id>
+    <published>2018-03-31T05:49:18.000Z</published>
+    <updated>2018-03-31T13:16:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="I’m-so-angry"><a href="#I’m-so-angry" class="headerlink" title="I’m so angry"></a>I’m so angry</h1><a id="more"></a><h2 id="yes-sososososo-angry"><a href="#yes-sososososo-angry" class="headerlink" title="yes,sososososo angry."></a>yes,sososososo angry.</h2><h5 id="u-will-be-punished"><a href="#u-will-be-punished" class="headerlink" title="u will be punished."></a>u will be punished.</h5><p>Just like this kind.<br><img src="http://files.eduuu.com/img/2011/05/20/111846_4dd5dd96b40a8.gif" alt=""></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;I’m-so-angry&quot;&gt;&lt;a href=&quot;#I’m-so-angry&quot; class=&quot;headerlink&quot; title=&quot;I’m so angry&quot;&gt;&lt;/a&gt;I’m so angry&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="angry" scheme="http://yoursite.com/tags/angry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>To Diana</title>
+    <link href="http://yoursite.com/2018/03/31/%E4%BD%A0%E5%B0%B1%E5%92%8C%E6%88%91%E5%90%B5%E6%9E%B6%E5%90%A7%EF%BC%81/"/>
+    <id>http://yoursite.com/2018/03/31/你就和我吵架吧！/</id>
+    <published>2018-03-31T05:49:18.000Z</published>
+    <updated>2018-03-31T13:16:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="I’m-so-angry"><a href="#I’m-so-angry" class="headerlink" title="I’m so angry"></a>I’m so angry</h1><a id="more"></a><h2 id="yes-sososososo-angry"><a href="#yes-sososososo-angry" class="headerlink" title="yes,sososososo angry."></a>yes,sososososo angry.</h2><h5 id="u-will-be-punished"><a href="#u-will-be-punished" class="headerlink" title="u will be punished."></a>u will be punished.</h5><p>Just like this kind.<br><img src="http://files.eduuu.com/img/2011/05/20/111846_4dd5dd96b40a8.gif" alt=""></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;I’m-so-angry&quot;&gt;&lt;a href=&quot;#I’m-so-angry&quot; class=&quot;headerlink&quot; title=&quot;I’m so angry&quot;&gt;&lt;/a&gt;I’m so angry&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="angry" scheme="http://yoursite.com/tags/angry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go to the lecture--1</title>
+    <link href="http://yoursite.com/2018/03/31/Go%20to%20the%20lecture--1/"/>
+    <id>http://yoursite.com/2018/03/31/Go to the lecture--1/</id>
+    <published>2018-03-31T05:49:18.000Z</published>
+    <updated>2018-03-31T13:04:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="从教师和医生到联合国高管–我的世卫职业生涯——陈垦"><a href="#从教师和医生到联合国高管–我的世卫职业生涯——陈垦" class="headerlink" title="从教师和医生到联合国高管–我的世卫职业生涯——陈垦"></a>从教师和医生到联合国高管–我的世卫职业生涯——陈垦</h1><h5 id="A-wonderful-three-hour-speech-by-Dr-Chen-Ken"><a href="#A-wonderful-three-hour-speech-by-Dr-Chen-Ken" class="headerlink" title="A wonderful three-hour speech by Dr.Chen Ken."></a>A wonderful three-hour speech by Dr.Chen Ken.</h5><p><img src="http://i4.hexunimg.cn/2013-12-06/160345539.jpg" alt=""><br>Dr.Chen Ken was a former WHO senior officer, D1.<br><a id="more"></a><br><a href="https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind" target="_blank" rel="noopener">&lt;Sapiens></a>is recommended by Dr.Chen, and he also encouraged interdisciplinary studying.<br>When come to what suggestions to current college students, Dr.Chen said two sentences:认认真真学个本事,轰轰烈烈谈个恋爱.</p><blockquote><p>There is no shortcut<br>Do it, no matter weather it is a big one or small<br>No complain<br>From passive to active<br>To think–to express–to take action<br>Communication=skills+talent<br>Study hard, what to learn and how to learn  </p></blockquote><p>YPP exam is a pathway to enter the UN for people under 32.</p><p><a href="https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe" target="_blank" rel="noopener">Mehr Licht!</a><br><img src="http://img.taoshu.com/pic_200/1717/04/18/1177225675.jpg" alt=""></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;从教师和医生到联合国高管–我的世卫职业生涯——陈垦&quot;&gt;&lt;a href=&quot;#从教师和医生到联合国高管–我的世卫职业生涯——陈垦&quot; class=&quot;headerlink&quot; title=&quot;从教师和医生到联合国高管–我的世卫职业生涯——陈垦&quot;&gt;&lt;/a&gt;从教师和医生到联合国高管–我的世卫职业生涯——陈垦&lt;/h1&gt;&lt;h5 id=&quot;A-wonderful-three-hour-speech-by-Dr-Chen-Ken&quot;&gt;&lt;a href=&quot;#A-wonderful-three-hour-speech-by-Dr-Chen-Ken&quot; class=&quot;headerlink&quot; title=&quot;A wonderful three-hour speech by Dr.Chen Ken.&quot;&gt;&lt;/a&gt;A wonderful three-hour speech by Dr.Chen Ken.&lt;/h5&gt;&lt;p&gt;&lt;img src=&quot;http://i4.hexunimg.cn/2013-12-06/160345539.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;Dr.Chen Ken was a former WHO senior officer, D1.&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Lecture" scheme="http://yoursite.com/tags/Lecture/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go to the lecture--2</title>
+    <link href="http://yoursite.com/2018/03/31/Go%20to%20the%20lecture--2/"/>
+    <id>http://yoursite.com/2018/03/31/Go to the lecture--2/</id>
+    <published>2018-03-31T05:40:03.000Z</published>
+    <updated>2018-03-31T14:19:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#test<br><a id="more"></a><br>apple is good.</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#test&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Lecture" scheme="http://yoursite.com/tags/Lecture/"/>
     
   </entry>
   
